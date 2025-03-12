@@ -26,19 +26,19 @@ dotnet restore
 ```
 
 4. Em seguida, compile a solu��o utilizando o comando:
-   
+
 ```
 dotnet build --configuration Release
 ```
 
 5. Para executar o projeto compilando em tempo real
-   
+
 ```
 dotnet run --project Calculadora.ConsoleApp
 ```
 
 6. Para executar o arquivo compilado, navegue at� a pasta `./Calculadora.ConsoleApp/bin/Release/net8.0/` e execute o arquivo:
-   
+
 ```
 Calculdora.ConsoleApp.exe
 ```
