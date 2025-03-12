@@ -1,6 +1,6 @@
 ﻿# Calculadora Tabajara 2025
 
-![](https://i.imgur.com/beWC3gu.gif)
+![](https://imgur.com/X5vbt22)
 
 ## Introdu��o
 
